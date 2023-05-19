@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-19T12:14:06 UTC" name="Default suite" finished-at="2023-05-19T12:15:53 UTC" duration-ms="106593">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-05-19T12:14:06 UTC" name="Default test" finished-at="2023-05-19T12:15:53 UTC" duration-ms="106593">
+      <class name="com.sat.TestRunner.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:14:06 UTC" name="setUpClass" finished-at="2023-05-19T12:14:07 UTC" duration-ms="681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:14:07 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:14:19 UTC" duration-ms="12416" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User added Sauce Labs Backpack to the cart and was on the cart page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["TC_002 Swag Labs Checkout step one Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:14:19 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:14:32 UTC" duration-ms="12989" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User added Sauce Labs Backpack to the cart and was on the cart page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["TC_002 Swag Labs Checkout step one Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:14:32 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:14:48 UTC" duration-ms="15460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User added Sauce Labs Backpack to the cart and was on the cart page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["TC_002 Swag Labs Checkout step one Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:14:48 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:14:51 UTC" duration-ms="2970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Login to Home page with valid Credential"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Scenarion with different credential"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:14:51 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:15:04 UTC" duration-ms="13108" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Login to Home page with Unsuccessful Credential"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Scenarion with different credential"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:15:04 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:15:07 UTC" duration-ms="3267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Login to Home page with Problem Credential"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Scenarion with different credential"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:15:07 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:15:16 UTC" duration-ms="9337" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Login to Home page with Problem Credential"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Scenarion with different credential"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:15:16 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:15:26 UTC" duration-ms="10068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Login to Home page with valid Credential"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Swag Labs Cart Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:15:26 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:15:37 UTC" duration-ms="10414" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Login to Home page with valid Credential"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Swag Labs Cart Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:15:37 UTC" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-05-19T12:15:51 UTC" duration-ms="14365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Login to Home page with valid Credential"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Swag Labs Cart Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.sat.TestRunner.TestRunner@73e9cf30]" started-at="2023-05-19T12:15:51 UTC" name="tearDownClass" finished-at="2023-05-19T12:15:53 UTC" duration-ms="1440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.sat.TestRunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
